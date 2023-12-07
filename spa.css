@@ -1,0 +1,69 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('https://wallpapercave.com/wp/wp2757890.gif');
+    background-size: cover;
+}
+
+header {
+    background-color: #333;
+    background-image: url(data:image/jpeg;base64,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);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    color: #bbff33;
+}
+
+p{
+    color: aqua;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    color: #3399ff;
+}
+
+.project {
+    border: 1px solid #99ff33;
+    padding: 10px;
+    margin-bottom: 15px;
+    transition: background-color 0.3s ease; /* Add transition for smooth hover effect */
+}
+
+.project:hover {
+    background-color: #006600;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: beige;
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+p a {
+    color:beige;
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
